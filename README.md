@@ -1,7 +1,5 @@
 <h1 align="center"> Projeto Login</h1>
 
-![Login](https://static.vecteezy.com/ti/vetor-gratis/p1/41731090-conecte-se-icone-vetor.jpg)
-
 ### Descrição
 
 Projeto criado na aula da disciplina de programação Front-End, na Unicesumar
