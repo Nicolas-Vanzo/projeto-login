@@ -26,9 +26,11 @@ Os codigos foram editados pelo vscode e conforme as ediçoes fui usando:
 
 para subir os arquivos no github
 
-## Autor
 
 <div align="center">
+
+## Autor
+
 
 <a href="https://github.com/Nicolas-Vanzo" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
