@@ -23,4 +23,5 @@ Os codigos foram editados pelo vscode e conforme as ediçoes fui usando:
 - git add .
 - git commit -m 
 - git push
+
 para subir os arquivos no github
